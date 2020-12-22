@@ -1,6 +1,6 @@
 # ECE 180DB
 
-Senior design class for systems design. Project can be found `here`[https://github.com/180D-FW-2020/Team8].
+Senior design class for systems design. Project can be found [here](https://github.com/180D-FW-2020/Team8).
 
 ## Project Summary
 
