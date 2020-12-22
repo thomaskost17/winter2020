@@ -1,0 +1,6 @@
+# prevent matlab auto-save files
+*.asv
+
+# prevent artifacts
+*.jpg
+*.csv
